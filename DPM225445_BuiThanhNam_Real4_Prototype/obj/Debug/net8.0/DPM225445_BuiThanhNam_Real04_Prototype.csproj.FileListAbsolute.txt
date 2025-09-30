@@ -1,0 +1,14 @@
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\bin\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.exe
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\bin\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.deps.json
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\bin\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.runtimeconfig.json
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\bin\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.dll
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\bin\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.pdb
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.AssemblyInfoInputs.cache
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.AssemblyInfo.cs
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.csproj.CoreCompileInputs.cache
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.dll
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\refint\DPM225445_BuiThanhNam_Real04_Prototype.dll
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.pdb
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\DPM225445_BuiThanhNam_Real04_Prototype.genruntimeconfig.cache
+Z:\Buoi1\DPM225445_BuiThanhNam_Real04_Prototype\obj\Debug\net8.0\ref\DPM225445_BuiThanhNam_Real04_Prototype.dll
